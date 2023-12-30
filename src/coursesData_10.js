@@ -52,7 +52,15 @@ const coursesData = [
     title: 'Maven Mastery: Kickstart Your Java Projects',
     url: 'https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/',
     logo: 'course_009.jpg',
-  }
+  },
+  {
+    id: 10,
+    title: 'DevOps Labs: 9 Real DevOps Projects',
+    url: 'https://www.udemy.com/course/devops-labs-9-real-devops-projects/',
+    logo: 'course_010.jpg',
+  },
+
+  //
 ];
 
 export default coursesData;
