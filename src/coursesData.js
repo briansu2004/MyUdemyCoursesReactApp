@@ -59,6 +59,12 @@ const coursesData = [
     url: 'https://www.udemy.com/course/devops-labs-9-real-devops-projects/',
     logo: 'course_010.jpg',
   },
+  {
+    id: 19,
+    title: 'Mendix Magic: Mobilize Your Responsive Apps with No Code',
+    url: 'https://www.udemy.com/course/mendix-magic/',
+    logo: 'course_019.jpg',
+  },
 ];
 
 export default coursesData;
