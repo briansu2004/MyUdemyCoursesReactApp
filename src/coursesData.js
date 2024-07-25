@@ -95,6 +95,12 @@ const coursesData = [
     url: "https://www.udemy.com/course/perfect-python/",
     logo: "course_024.png",
   },
+  {
+    id: 25,
+    title: "Pass PHP Job Interviews",
+    url: "https://www.udemy.com/course/pass-php-job-interviews/",
+    logo: "course_025.jpg",
+  },
 ];
 
 export default coursesData;
